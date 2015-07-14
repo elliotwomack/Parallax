@@ -1,0 +1,86 @@
+body{
+	margin: 0px;
+	body: 0px;
+}
+.containerleftwhite{
+	background-color: #fff;
+	height: 50px; 
+  	position: absolute; 
+  	text-align: center; 
+  	top: 450px;
+  	left: -300px;
+  	width: 75%;
+}
+.containerleft{
+	background-color: #000000;
+	height: 50px; 
+  	position: absolute; 
+  	text-align: center; 
+  	top: 450px;
+  	left: -300px;
+  	width: 75%;
+}
+.containerright{
+	background-color: #000000;
+	height: 50px; 
+  	position: absolute; 
+  	text-align: center; 
+  	top: 450px;
+  	left: 600px;
+  	width: 75%;
+}
+#fairbanks { 
+  	background: url(bus.jpg) 50% 0 repeat fixed; min-height: 1000px; 
+  	height: 1000px; 
+  	margin: 0 auto; 
+  	width: 100%; 
+  	max-width: 1920px; 
+  	position: relative; 
+}
+ 
+#fairbanks article { 
+  	font-size: 42px;
+  	color: white;
+}
+ 
+#mountains { 
+  	background: url(mountains.jpg) 50% 0 repeat fixed; min-height: 1000px; 
+  	height: 1000px; 
+  	margin: 0 auto; 
+  	width: 100%; 
+  	max-width: 1920px; 
+  	position: relative; 
+}
+ 
+#mountains article { 
+	font-size: 42px;
+  	color: white;
+}
+
+#black {
+	background: 50% 0 repeat fixed; min-height: 1000px;
+	background-color: #000000;
+	height: 1000px; 
+  	margin: 0 auto; 
+  	width: 100%; 
+  	max-width: 1920px; 
+  	position: relative; 
+}
+
+#black article {
+	font-size: 42px;
+}
+
+#buildings {
+	background: url(buildings.jpg) 50% 0 repeat fixed; min-height: 1000px;
+	height: 1000px; 
+  	margin: 0 auto; 
+  	width: 100%; 
+  	max-width: 1920px; 
+  	position: relative; 
+}
+
+#buildings article {
+	font-size: 42px;
+  	color: white; 
+}
